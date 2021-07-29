@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "name": "Soap",
+      "price": 34,
+      "id": 1
+    },
+    {
+      "name": "Xbox Series X",
+      "price": 23,
+      "id": 2
+    },
+    {
+      "name": "Pizza",
+      "price": 45,
+      "id": 3
+    },
+    {
+      "name": "Shampoo",
+      "price": 40,
+      "id": 4
+    },
+    {
+      "name": "Toothpaste",
+      "price": 24,
+      "id": 5
+    },
+    {
+      "name": "Hamburger",
+      "price": 19,
+      "id": 6
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": 21,
+      "id": 7
+    },
+    {
+      "name": "Bread",
+      "price": 51,
+      "id": 8
+    },
+    {
+      "name": "Computer",
+      "price": 76,
+      "id": 9
+    },
+    {
+      "name": "Playstation 5",
+      "price": 4,
+      "id": 10
+    },
+    {
+      "name": "Tomato",
+      "price": 87,
+      "id": 11
+    },
+    {
+      "name": "Celery",
+      "price": 97,
+      "id": 12
+    },
+    {
+      "name": "Donut",
+      "price": 55,
+      "id": 13
+    },
+    {
+      "name": "Laptop",
+      "price": 15,
+      "id": 14
+    },
+    {
+      "name": "Lettuce",
+      "price": 19,
+      "id": 15
+    },
+    {
+      "name": "Dog Toy",
+      "price": 58,
+      "id": 16
+    },
+    {
+      "name": "Book",
+      "price": 22,
+      "id": 17
+    }
+  ],
+  "carts": [
+    {
+      "items": [
+        {
+          "name": "Book",
+          "price": 22,
+          "id": 17
+        }
+      ],
+      "total": 22,
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "name": "Soap",
+          "price": 34,
+          "id": 1
+        },
+        {
+          "name": "Xbox Series X",
+          "price": 23,
+          "id": 2
+        },
+        {
+          "name": "Pizza",
+          "price": 45,
+          "id": 3
+        }
+      ],
+      "total": 102,
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "name": "Soap",
+          "price": 34,
+          "id": 1
+        },
+        {
+          "name": "Xbox Series X",
+          "price": 23,
+          "id": 2
+        }
+      ],
+      "total": 57,
+      "id": 3
+    },
+    {
+      "items": [
+        {
+          "name": "Playstation 5",
+          "price": 4,
+          "id": 10
+        },
+        {
+          "name": "Laptop",
+          "price": 15,
+          "id": 14
+        },
+        {
+          "name": "Hamburger",
+          "price": 19,
+          "id": 6
+        },
+        {
+          "name": "Soap",
+          "price": 34,
+          "id": 1
+        },
+        {
+          "name": "Shampoo",
+          "price": 40,
+          "id": 4
+        }
+      ],
+      "total": 112,
+      "id": 4
+    }
+  ]
+}
